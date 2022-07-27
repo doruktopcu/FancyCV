@@ -1,2 +1,2 @@
 # FancyCV
-My personal CV page.
+My personal CV page. But fancier.
